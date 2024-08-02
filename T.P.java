@@ -1,5 +1,7 @@
-fgddyryr
-yjgj
-ghyj
-gfm
-gfn 
+class test
+{
+public static void main(args strings)
+  {
+rgbfd
+  }
+}
